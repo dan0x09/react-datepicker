@@ -5,6 +5,7 @@
   "version": "8.1.0",
   "license": "MIT",
   "homepage": "https://github.com/Hacker0x01/react-datepicker",
+  "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "module": "dist/index.es.js",
